@@ -1,0 +1,16 @@
+/* 여기는 css파일입니다!!! */
+h1{
+    background-color:red; 
+}
+a {
+    color: brown;
+    font-stretch: expanded;
+}
+.blue{
+    background-color: blue
+   
+}
+#git{
+    background-color: black;
+    font-size: 250%;
+}
